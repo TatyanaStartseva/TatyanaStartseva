@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1lNTIxZ2l3aDB4dGVzcGdmNmtzMGZyeWJxeXV4cGozNzM4aDQ1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFhbnhtajlwZGV4M294aWg0a2ZlaW04NXdmdjh1Y2JiYjN2OWJ0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vs8OVyeh6MEmnDJNdp/giphy.gif" width="100"/>
 </div>
 <div id="badges">
   <a href="https://t.me/Startseva_T">
