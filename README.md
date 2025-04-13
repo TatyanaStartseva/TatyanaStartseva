@@ -1,10 +1,19 @@
 ## Привет! Я Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России
 
-- :telescope: Я работаю Backend-разработчиком, участвую в создании веб-приложений, REST API и серверов для обработки и хранения данных.
-- :seedling: Изучаю техническое письмо и делаю проекты для портфолио.
-- :zap: В свободное время решаю задачи на Leetcode и читаю технические статьи.
+Занимаюсь разработкой и поддержкой backend-сервисов, парсингом данных, интеграцией внешних API и созданием Telegram-ботов. Опыт работы с FastAPI, PostgreSQL, MongoDB, а также деплоем с использованием Docker и PM2. Активно тестирую API с помощью Postman и использую Git для контроля версий.
+
 - :mailbox: Как со мной связаться:  
-  [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/your_username)
+<div id="badges">
+   <a href="https://t.me/Startseva_T">
+     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+   </a>
+   <a href="https://spb.hh.ru/resume/34327b71ff0df508800039ed1f56354d64676f">
+     <img src="https://img.shields.io/badge/HH-red?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HeadHunter Badge"/>
+   </a>
+   <a href="https://www.linkedin.com/in/your_profile">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+ </div>
 
 ---
 
