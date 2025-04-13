@@ -55,5 +55,6 @@
 - **Интерактивный тренажер по SQL** – Stepik (2023)  
 - **Введение в SQLAlchemy на Python** – Stepik (2024)  
 - **English File Intermediate (B1)** – Best English Academy (2023)
-
+###  Моя GitHub-статистика:
+[![GitHub Streak](https://streak-stats.demolab.com?user=TatyanaStartseva&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
